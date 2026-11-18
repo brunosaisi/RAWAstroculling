@@ -2,8 +2,8 @@
 
 
 # <img src="logo.png" alt="Logo" />    RAW Astroculling    <img src="logo.png" alt="Logo" />
-
 </div>
+
 ![Status](https://shields.io)
 ![Platform](https://shields.io)
 ![Python](https://shields.io)
