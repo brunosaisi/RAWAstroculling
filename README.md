@@ -1,7 +1,7 @@
 <div align="center">
-<img src="logo.png" alt="Logo" width="300" />
 
-# 🔭 RAW Astroculling
+
+# <img src="logo.png" alt="Logo" />    RAW Astroculling    <img src="logo.png" alt="Logo" />
 
 </div>
 ![Status](https://shields.io)
@@ -51,7 +51,7 @@ Diferente de ferramentas baseadas em Inteligência Artificial, o **RAW Astrocull
 ## 🚀 Como Usar
 
 ### Opção 1: Usando o Instalador (Windows)
-1. Baixe 'RAW_Astroculling_windows_Setup.exe'.
+1. [Baixe o instalador no blog Spraymental](https://spraymental.com/raw-astroculling/).
 2. Execute o instalador e siga as instruções na tela.
 3. Abra o **RAW Astroculling**, clique em **"Procurar..."** e selecione a pasta contendo os arquivos RAW da sua sessão.
 4. Ajuste o **Limite de Excentricidade** (padrão recomendado: `0.445`):
