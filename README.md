@@ -4,11 +4,6 @@
 # <img src="logo.png" alt="Logo" />    RAW Astroculling    <img src="logo.png" alt="Logo" />
 </div>
 
-![Status](https://shields.io)
-![Platform](https://shields.io)
-![Python](https://shields.io)
-![Offline](https://shields.io)
-
 O **RAW Astroculling** é uma ferramenta autônoma e leve desenvolvida para astrofotógrafos realizarem a triagem automatizada (*culling*) de subexposições brutas (arquivos RAW) antes do pré-processamento e empilhamento (*stacking*). 
 
 O software analisa a geometria das estrelas diretamente nos arquivos originais da câmera, separando automaticamente os *frames* com estrelas pontuais daqueles que sofreram arrasto (*star trailing*) por erros de rastreamento, vento ou vibrações na montagem.
@@ -22,6 +17,8 @@ O software analisa a geometria das estrelas diretamente nos arquivos originais d
 * **100% Offline:** Todo o processamento matemático ocorre localmente na sua máquina. Ideal para uso em campo e locais remotos sem acesso à internet.
 * **Interface Gráfica Fluida:** Janela autônoma com processamento em segundo plano (*multithreading*) e log em tempo real, evitando travamentos durante a leitura de lotes pesados.
 * **Organização Não-Destrutiva:** O programa não apaga nenhum arquivo. Ele cria duas subpastas no diretório alvo (`Boas_Redondas` e `Ruins_Esticadas`) e apenas move os arquivos conforme o resultado da análise.
+
+<img src="rawaplay.jpg" width="100%" alt="RAWA funcionando" />
 
 ---
 
